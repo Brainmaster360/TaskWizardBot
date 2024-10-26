@@ -42,7 +42,7 @@ Run the Bot: Start the bot using the following command:
 npm start
 ```
 # Commands
-**General Commands: **
+**General Commands:**
 /help: Displays the help menu with a list of available commands.
 /ticket: Create a support ticket for user inquiries.
 /ping: Checks the bot's latency.
