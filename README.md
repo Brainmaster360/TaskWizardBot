@@ -66,7 +66,7 @@ Environment Variables: Securely store your .env file or configure environment va
 Security Groups: Configure your AWS security groups to allow necessary outbound connections to Discord's API.
 
 Discord Support Server
-Join our 'Discord Support Server' https://discord.gg/vq6B9xWTgp for assistance, feature requests, and to connect with other users!
+Join our [Discord Support Server](https://discord.gg/vq6B9xWTgp) for assistance, feature requests, and to connect with other users!
 
 ### Contributing:
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
