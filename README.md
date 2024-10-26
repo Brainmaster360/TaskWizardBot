@@ -24,7 +24,7 @@ Before running the bot, ensure you have the following:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/TaskWizard.git
+   git clone https://github.com/Brainmaster360/TaskWizard.git
    cd TaskWizard
    ```
 2. **Install Dependencies:**
@@ -83,8 +83,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 **Acknowledgments**
 Special thanks to the Discord.js community for their support and contributions.
 Inspired by various Discord bots and projects that enhance user experience.
-
-### Instructions:
-- Replace `yourusername` with your actual GitHub username.
-- Adjust any details, especially in the Features and Commands sections, to accurately reflect the functionalities of your bot.
-- Save this content as `README.md` in the root directory of your **Task Wizard** project.
