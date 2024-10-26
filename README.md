@@ -27,17 +27,18 @@ Before running the bot, ensure you have the following:
    git clone https://github.com/yourusername/TaskWizard.git
    cd TaskWizard
    ```
-Install Dependencies:
-
+2. **Install Dependencies:**
 ```bash
 npm install
 ```
-Setup Environment Variables: Create a .env file in the root directory of the project and add your tokens and IDs:
+3. **Setup Environment Variables:**
+   Create a .env file in the root directory of the project and add your tokens and IDs:
 ```makefile
    DISCORD_TOKEN=your_discord_bot_token
    DISCORD_CLIENT_ID=your_discord_client_id
 ```
-Run the Bot: Start the bot using the following command:
+4. **Run the Bot:**
+   Start the bot using the following command:
 ```bash
 npm start
 ```
