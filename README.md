@@ -65,6 +65,9 @@ PM2 Process Manager: Utilize PM2 to manage the bot process, ensuring it stays on
 Environment Variables: Securely store your .env file or configure environment variables through AWS Systems Manager Parameter Store or Secrets Manager.
 Security Groups: Configure your AWS security groups to allow necessary outbound connections to Discord's API.
 
+Discord Support Server
+Join our 'Discord Support Server' https://discord.gg/vq6B9xWTgp for assistance, feature requests, and to connect with other users!
+
 ### Contributing:
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
