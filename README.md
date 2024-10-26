@@ -26,22 +26,21 @@ Before running the bot, ensure you have the following:
    ```bash
    git clone https://github.com/yourusername/TaskWizard.git
    cd TaskWizard
+   ```
 Install Dependencies:
 
-bash
-Copy code
+```bash
 npm install
+```
 Setup Environment Variables: Create a .env file in the root directory of the project and add your tokens and IDs:
-
-makefile
-Copy code
-DISCORD_TOKEN=your_discord_bot_token
-DISCORD_CLIENT_ID=your_discord_client_id
+```makefile
+   DISCORD_TOKEN=your_discord_bot_token
+   DISCORD_CLIENT_ID=your_discord_client_id
+```
 Run the Bot: Start the bot using the following command:
-
-bash
-Copy code
+```bash
 npm start
+```
 Commands
 General Commands:
 /help: Displays the help menu with a list of available commands.
@@ -69,3 +68,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Acknowledgments
 Special thanks to the Discord.js community for their support and contributions.
 Inspired by various Discord bots and projects that enhance user experience.
+
+### Instructions:
+- Replace `yourusername` with your actual GitHub username.
+- Adjust any details, especially in the Features and Commands sections, to accurately reflect the functionalities of your bot.
+- Save this content as `README.md` in the root directory of your **Task Wizard** project.
