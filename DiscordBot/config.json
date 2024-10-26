@@ -1,0 +1,11 @@
+{
+    "TOKEN": "",
+    "CLIENT_ID": "",
+    "ADMIN_ROLE_ID": "1299518827880648786",
+    "MOD_ROLE_ID": "1299518828384092211",
+    "ticketCounters": {
+        "Technical Support": 3,
+        "Billing": 4,
+        "General Inquiry": 2
+    }
+}
