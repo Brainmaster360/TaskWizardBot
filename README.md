@@ -42,7 +42,7 @@ npm install
 ```bash
 npm start
 ```
-# Commands
+## Commands
 **General Commands:**
 /help: Displays the help menu with a list of available commands.
 /ticket: Create a support ticket for user inquiries.
@@ -57,7 +57,7 @@ npm start
 /setlogchannel: Designates a channel for bot logs and messages.
 /warn: Issues a warning to a user for inappropriate behavior.
 
- **Deployment**
+### Deployment
 The original Task Wizard bot is deployed on an AWS instance, leveraging AWS services for reliability and scalability. If you wish to deploy the bot on AWS or any other cloud platform, consider the following:
 
 AWS EC2: You can use an EC2 instance to run the bot continuously.
@@ -65,7 +65,7 @@ PM2 Process Manager: Utilize PM2 to manage the bot process, ensuring it stays on
 Environment Variables: Securely store your .env file or configure environment variables through AWS Systems Manager Parameter Store or Secrets Manager.
 Security Groups: Configure your AWS security groups to allow necessary outbound connections to Discord's API.
 
- **Contributing:**
+### Contributing:
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
 **Fork the Project**
